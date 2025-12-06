@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .GAMES one-word domains still available to buy.
 
-This dataset contains 3,823 .GAMES one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,820 .GAMES one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.GAMES one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=games-oneword-domains&utm_content=description.top) (3,817) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.GAMES one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.games        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.games        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.games  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.games      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.games  | available | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.GAMES one word domain
 | abatic.games     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.games    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.games   | available | 50       | 1%     | 8      |           |         |         |
-| abc.games        | available | 102      | 41%    | 3      |           |         |         |
+| abc.games        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.games  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.games  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.games | available | 56       | 1%     | 10     |           |         |         |
