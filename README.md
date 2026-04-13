@@ -79,10 +79,10 @@ print(df.head())
 | split.games     | available | $19.99    | $43.99        | 46             | 29     | 5      | name.com                                            |
 | affinity.games  | resell    | —         | —             | 74             | 81     | 8      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | air.games       | premium   | $520      | $520          | 84             | 49     | 3      | namecheap                                           |
-| reverse.games   | available | $19.99    | $43.99        | 114            | 28     | 7      | name.com                                            |
+| ahead.games     | available | $19.99    | $43.99        | 76             | 28     | 5      | name.com                                            |
 | kick.games      | resell    | —         | —             | 98             | 80     | 4      | Dynadot Inc                                         |
 | real.games      | premium   | $1,300    | $1,300        | 78             | 49     | 4      | namecheap                                           |
-| ahead.games     | available | $19.99    | $43.99        | 76             | 28     | 5      | name.com                                            |
+| checkout.games  | available | $19.99    | —             | 72             | 28     | 9      | name.com                                            |
 | boss.games      | resell    | —         | —             | 76             | 73     | 4      | DNSPod, Inc.                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
