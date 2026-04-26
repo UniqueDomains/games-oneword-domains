@@ -1,22 +1,22 @@
-# Available .GAMES One-Word Domains (7,959)
+# Available .GAMES One-Word Domains (10,184)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C960%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C959%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C184%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .games one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .games one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,184 domains** on the canonical page below.
 
-**Public extract:** 7,960 rows · **Live catalog:** 7,959 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,184 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/games`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GAMES one-word domain
 
 ### Files
 
-- `games.csv` — public CSV extract (7,960 rows)
-- `games.json` — public JSON extract (7,960 rows)
+- `games.csv` — public CSV extract (1,000 rows)
+- `games.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| bunny.games     | available | $19.99    | —             | 76             | 38     | 5      | name.com                                            |
-| silver.games    | resell    | —         | —             | 56             | 99     | 6      | Name.com, Inc.                                      |
-| easy.games      | premium   | $1,250    | $1,250        | 128            | 62     | 4      | name.com                                            |
-| dental.games    | available | $19.99    | $43.99        | 90             | 36     | 6      | name.com                                            |
-| capital.games   | resell    | —         | —             | 92             | 98     | 7      | Squarespace Domains II LLC                          |
-| data.games      | premium   | $1,300    | $1,300        | 70             | 53     | 4      | namecheap                                           |
-| trinity.games   | available | $19.99    | $43.99        | 72             | 30     | 7      | name.com                                            |
-| cold.games      | resell    | —         | —             | 78             | 98     | 4      | Sav.com, LLC - 44                                   |
-| athletics.games | premium   | $260      | $260          | 69             | 52     | 9      | namecheap                                           |
-| shared.games    | available | $19.99    | $43.99        | 70             | 29     | 6      | name.com                                            |
-| universal.games | resell    | —         | —             | 96             | 81     | 9      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| abc.games       | premium   | $3,250    | $3,250        | 102            | 50     | 3      | namecheap                                           |
-| split.games     | available | $19.99    | $43.99        | 46             | 29     | 5      | name.com                                            |
-| affinity.games  | resell    | —         | —             | 74             | 81     | 8      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| air.games       | premium   | $520      | $520          | 84             | 49     | 3      | namecheap                                           |
-| ahead.games     | available | $19.99    | $43.99        | 76             | 28     | 5      | name.com                                            |
-| kick.games      | resell    | —         | —             | 98             | 80     | 4      | Dynadot Inc                                         |
-| real.games      | premium   | $1,300    | $1,300        | 78             | 49     | 4      | namecheap                                           |
-| checkout.games  | available | $19.99    | —             | 72             | 28     | 9      | name.com                                            |
-| boss.games      | resell    | —         | —             | 76             | 73     | 4      | DNSPod, Inc.                                        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| teams.games        | available | $19.99    | —             | 62             | 32     | 5      | name.com                                                |
+| tokens.games       | resell    | —         | —             | 51             | 36     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| videos.games       | premium   | $140      | $280          | 52             | 30     | 6      | namecheap                                               |
+| quotes.games       | available | $19.99    | —             | 58             | 29     | 6      | name.com                                                |
+| homes.games        | resell    | —         | —             | 86             | 34     | 5      | DNSPod, Inc.                                            |
+| SanDiego.games     | premium   | $69.30    | $138.60       | 74             | 29     | 9      | namecheap                                               |
+| commonground.games | available | $19.99    | —             | 74             | 28     | 13     | name.com                                                |
+| leadership.games   | resell    | —         | —             | 80             | 33     | 10     | Sav.com, LLC - 45                                       |
+| shops.games        | premium   | $280      | $560          | 64             | 24     | 5      | namecheap                                               |
+| bees.games         | available | $19.99    | —             | 54             | 27     | 4      | name.com                                                |
+| solutions.games    | resell    | —         | —             | 56             | 31     | 9      | DNSPod, Inc.                                            |
+| superhero.games    | premium   | $69.30    | $138.60       | 84             | 23     | 9      | namecheap                                               |
+| investors.games    | available | $19.99    | —             | 60             | 23     | 9      | name.com                                                |
+| destination.games  | resell    | —         | —             | 90             | 25     | 11     | Spaceship, Inc.                                         |
+| girls.games        | premium   | $1,750    | $3,500        | 83             | 23     | 5      | namecheap                                               |
+| makeit.games       | available | $19.99    | —             | 82             | 22     | 7      | name.com                                                |
+| products.games     | resell    | —         | —             | 60             | 23     | 8      | Spaceship, Inc.                                         |
+| motorsport.games   | premium   | $280      | $560          | 74             | 23     | 10     | namecheap                                               |
+| Places.games       | available | $42.98    | —             | 74             | 22     | 6      | namecheap                                               |
+| wins.games         | resell    | —         | —             | 68             | 21     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,960-row public sample | 7,959 live domains                               |
+| 1,000-row public sample | 10,184 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
