@@ -416,6 +416,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 26f5968d-77ce-41f5-a595-d4c12ed5f427,leadership.games,resell,,,80,33,10,"Sav.com, LLC - 45",03/02/2026 15:15,03/02/2027 15:15
 26fd470f-d6bf-4c63-9208-25237a449cb6,demotes.games,available,19.99,,46,1,7,name.com,,
 27098e76-5f02-4fb1-9cb5-36e5aeedfc20,makethedifference.games,available,19.99,,72,3,19,name.com,,
+2710eaea-f0c6-4750-9f84-65cd44cc0bc3,squirrel.games,resell,,,74,27,8,"Xiamen ChinaSource Internet Service Co., Ltd",28/02/2026 15:15,28/02/2027 15:15
 2738b2d8-bf74-4e18-afff-6bd34143b711,straws.games,available,19.99,,54,6,6,name.com,,
 274207ec-6148-4402-bec5-9a4c37d6a99a,attentions.games,available,19.99,,54,4,10,name.com,,
 2770f47c-6133-4c92-bee9-efadab714581,toweather.games,available,19.99,,48,1,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a91df5a-9778-42e3-a5a4-1a5d9942058f,grayer.games,available,19.99,,60,3,6,name.com,,
 5ad909dc-cfd0-4266-8157-a2de922bc987,types.games,available,19.99,,54,14,5,name.com,,
 5addb0e5-a2be-42d8-9e42-31e6271aec2c,collapses.games,available,19.99,,38,1,9,name.com,,
-5b046c60-44a1-4d5d-94fd-c2df156dc33c,jetblack.games,available,19.99,,82,8,9,name.com,,
