@@ -65,25 +65,25 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
 | teams.games        | available | $19.99    | —             | 62             | 32     | 5      | name.com                                                |
-| tokens.games       | resell    | —         | —             | 51             | 36     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| this.games         | resell    | —         | —             | 80             | 43     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | videos.games       | premium   | $140      | $280          | 52             | 30     | 6      | namecheap                                               |
 | quotes.games       | available | $19.99    | —             | 58             | 29     | 6      | name.com                                                |
-| homes.games        | resell    | —         | —             | 86             | 34     | 5      | DNSPod, Inc.                                            |
+| tokens.games       | resell    | —         | —             | 51             | 36     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | SanDiego.games     | premium   | $69.30    | $138.60       | 74             | 29     | 9      | namecheap                                               |
 | commonground.games | available | $19.99    | —             | 74             | 28     | 13     | name.com                                                |
-| leadership.games   | resell    | —         | —             | 80             | 33     | 10     | Sav.com, LLC - 45                                       |
+| homes.games        | resell    | —         | —             | 86             | 34     | 5      | DNSPod, Inc.                                            |
 | shops.games        | premium   | $280      | $560          | 64             | 24     | 5      | namecheap                                               |
 | investors.games    | available | $19.99    | —             | 60             | 23     | 9      | name.com                                                |
-| solutions.games    | resell    | —         | —             | 56             | 31     | 9      | DNSPod, Inc.                                            |
+| leadership.games   | resell    | —         | —             | 80             | 33     | 10     | Sav.com, LLC - 45                                       |
 | coupons.games      | premium   | $69.30    | $138.60       | 52             | 24     | 7      | namecheap                                               |
 | makeit.games       | available | $19.99    | —             | 82             | 22     | 7      | name.com                                                |
-| squirrel.games     | resell    | —         | —             | 74             | 27     | 8      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| solutions.games    | resell    | —         | —             | 56             | 31     | 9      | DNSPod, Inc.                                            |
 | superhero.games    | premium   | $69.30    | $138.60       | 84             | 23     | 9      | namecheap                                               |
 | oceans.games       | available | $19.99    | —             | 64             | 22     | 6      | name.com                                                |
-| wins.games         | resell    | —         | —             | 68             | 21     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| squirrel.games     | resell    | —         | —             | 74             | 27     | 8      | Xiamen ChinaSource Internet Service Co., Ltd            |
 | motorsport.games   | premium   | $280      | $560          | 74             | 23     | 10     | namecheap                                               |
 | herbs.games        | available | $19.99    | —             | 62             | 22     | 5      | name.com                                                |
-| bros.games         | resell    | —         | —             | 58             | 19     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| wins.games         | resell    | —         | —             | 68             | 21     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

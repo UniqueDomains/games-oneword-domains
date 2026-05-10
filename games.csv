@@ -173,6 +173,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 10cbf319-a1c1-41c2-a6c8-59d75b2f751d,chickenout.games,available,19.99,,74,1,11,name.com,,
 10da51ea-ee8c-4bf1-b3f3-56e6d3e3f4a2,alcohols.games,available,19.99,,50,4,8,name.com,,
 10ff06b9-d155-4216-922c-111ed362dc1e,smarted.games,available,19.99,,53,5,7,name.com,,
+112d1126-1079-4ff7-8b3f-ac800a605970,this.games,resell,,,80,43,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/02/2025 09:40,14/02/2027 09:40
 115f27b6-cccd-4402-8aa0-a2fb49b9fcdd,totals.games,available,19.99,,56,6,6,name.com,,
 1170103f-c5a4-48d5-b3a7-777f3854878a,carryover.games,available,19.99,,70,2,10,name.com,,
 118d6dda-4aa8-4bf8-a5ac-d89235721691,searched.games,available,19.99,,60,7,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a5b8ce7-0f08-42ee-a2ca-af6738a48335,packages.games,available,19.99,,54,13,8,name.com,,
 5a91df5a-9778-42e3-a5a4-1a5d9942058f,grayer.games,available,19.99,,60,3,6,name.com,,
 5ad909dc-cfd0-4266-8157-a2de922bc987,types.games,available,19.99,,54,14,5,name.com,,
-5addb0e5-a2be-42d8-9e42-31e6271aec2c,collapses.games,available,19.99,,38,1,9,name.com,,
