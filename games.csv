@@ -705,6 +705,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 401e0f20-805d-46e2-a0d1-9ca084f86381,givearing.games,available,19.99,,52,1,11,name.com,,
 40364807-a66c-480f-b49b-045ab357a1f1,letslide.games,available,19.99,,76,1,9,name.com,,
 404d1386-4b05-4e1f-b6a1-46e60e781cb4,gettingusedto.games,available,19.99,,66,1,15,name.com,,
+4062566b-02cd-4b1d-a931-2216aaf86d5b,yesno.games,available,19.99,,48,15,6,name.com,,
 407190e4-b550-4066-b079-2329038acb23,throws.games,available,19.99,,52,5,6,name.com,,
 4094ff95-4c2b-4c73-b860-8a5c9138601a,socioeconomic.games,available,19.99,,54,1,13,name.com,,
 40bfed9b-c6b8-45bf-b1e5-3e833c0384a4,havenousefor.games,available,19.99,,56,0,15,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a58b169-63a9-4f2e-9901-fb89eaa452e8,allsorts.games,available,19.99,,52,5,9,name.com,,
 5a5b8ce7-0f08-42ee-a2ca-af6738a48335,packages.games,available,19.99,,54,13,8,name.com,,
 5a91df5a-9778-42e3-a5a4-1a5d9942058f,grayer.games,available,19.99,,60,3,6,name.com,,
-5ad909dc-cfd0-4266-8157-a2de922bc987,types.games,available,19.99,,54,14,5,name.com,,
