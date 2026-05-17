@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .games one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,734 domains · **Median ask:** $39.54 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/games`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | investors.games    | available | $19.99    | —             | 60             | 23     | 9      | name.com                                                |
 | leadership.games   | resell    | —         | —             | 80             | 33     | 10     | Sav.com, LLC - 45                                       |
 | coupons.games      | premium   | $69.30    | $138.60       | 52             | 24     | 7      | namecheap                                               |
-| makeit.games       | available | $19.99    | —             | 82             | 22     | 7      | name.com                                                |
+| oceans.games       | available | $19.99    | —             | 64             | 22     | 6      | name.com                                                |
 | solutions.games    | resell    | —         | —             | 56             | 31     | 9      | DNSPod, Inc.                                            |
 | superhero.games    | premium   | $69.30    | $138.60       | 84             | 23     | 9      | namecheap                                               |
-| oceans.games       | available | $19.99    | —             | 64             | 22     | 6      | name.com                                                |
+| herbs.games        | available | $19.99    | —             | 62             | 22     | 5      | name.com                                                |
 | squirrel.games     | resell    | —         | —             | 74             | 27     | 8      | Xiamen ChinaSource Internet Service Co., Ltd            |
 | motorsport.games   | premium   | $280      | $560          | 74             | 23     | 10     | namecheap                                               |
-| herbs.games        | available | $19.99    | —             | 62             | 22     | 5      | name.com                                                |
+| makeit.games       | available | $19.99    | —             | 82             | 21     | 7      | name.com                                                |
 | wins.games         | resell    | —         | —             | 68             | 21     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
