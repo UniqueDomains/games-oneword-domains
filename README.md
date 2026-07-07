@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .games one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,734 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,734 domains · **Median ask:** $39.54 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,734 domains · **Median ask:** $37.84 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/games`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/games`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GAMES one-word domain
 
 ### Files
 
-- `games.csv` — public CSV extract (1,000 rows)
-- `games.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `games.csv`, public CSV extract (1,000 rows)
+- `games.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| teams.games        | available | $19.99    | —             | 62             | 32     | 5      | name.com                                                |
-| this.games         | resell    | —         | —             | 80             | 43     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| videos.games       | premium   | $140      | $280          | 52             | 30     | 6      | namecheap                                               |
-| quotes.games       | available | $19.99    | —             | 58             | 29     | 6      | name.com                                                |
-| tokens.games       | resell    | —         | —             | 51             | 36     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| SanDiego.games     | premium   | $69.30    | $138.60       | 74             | 29     | 9      | namecheap                                               |
-| commonground.games | available | $19.99    | —             | 74             | 28     | 13     | name.com                                                |
-| homes.games        | resell    | —         | —             | 86             | 34     | 5      | DNSPod, Inc.                                            |
-| shops.games        | premium   | $280      | $560          | 64             | 24     | 5      | namecheap                                               |
-| investors.games    | available | $19.99    | —             | 60             | 23     | 9      | name.com                                                |
-| leadership.games   | resell    | —         | —             | 80             | 33     | 10     | Sav.com, LLC - 45                                       |
-| coupons.games      | premium   | $69.30    | $138.60       | 52             | 24     | 7      | namecheap                                               |
-| oceans.games       | available | $19.99    | —             | 64             | 22     | 6      | name.com                                                |
-| solutions.games    | resell    | —         | —             | 56             | 31     | 9      | DNSPod, Inc.                                            |
-| superhero.games    | premium   | $69.30    | $138.60       | 84             | 23     | 9      | namecheap                                               |
-| herbs.games        | available | $19.99    | —             | 62             | 22     | 5      | name.com                                                |
-| squirrel.games     | resell    | —         | —             | 74             | 27     | 8      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| motorsport.games   | premium   | $280      | $560          | 74             | 23     | 10     | namecheap                                               |
-| makeit.games       | available | $19.99    | —             | 82             | 21     | 7      | name.com                                                |
-| wins.games         | resell    | —         | —             | 68             | 21     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| aged.games | available | $19.99    | $43.99        | high           | low    | 4      | name.com                                     |
+| fan.games  | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
+| aid.games  | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                    |
+| bern.games | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| sun.games  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
+| air.games  | premium   | $520      | $520          | high           | medium | 3      | namecheap                                    |
+| bulb.games | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| beat.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| ala.games  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| bury.games | available | $19.99    | —             | medium         | low    | 4      | name.com                                     |
+| bond.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| and.games  | premium   | $280      | $560          | high           | medium | 3      | namecheap                                    |
+| bush.games | available | $19.99    | —             | medium         | low    | 4      | name.com                                     |
+| dark.games | resell    | —         | —             | medium         | medium | 4      | 101domain GRS Limited                        |
+| apt.games  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| cali.games | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| dawn.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| axe.games  | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                    |
+| cent.games | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| days.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .games extension. The set includes broad dictionary words, category terms, and more abstract options such as state.games, teen.games, print.games, dear.games, and attract.games. For founders, the main question is whether the word fits a gaming product, studio, tool, or community without needing extra explanation. For investors, the focus is whether the word is generic enough to have resale optionality at a low entry price. With a median ask of 39.56, price discipline matters less than picking words with clear meaning, clean spelling, and low trademark friction.
+This selection includes 10,734 one-word and short-phrase .games domain names, from single dictionary words to compound phrases such as barup.games, criteria.games, and midDecember.games. The median asking price sits near $38, keeping most names within reach for early-stage brand testing or small-scale portfolio building. Domains here vary widely in composition — some are literal single words, others combine two everyday terms — so evaluating length, spelling ease, and trademark risk remains essential before buying.
 
-- Favor clear dictionary words with obvious gaming relevance
-- Check if the word is easy to spell and say out loud
-- Compare broad terms vs niche terms for resale flexibility
-- Avoid words that may carry trademark or brand conflict risk
+- 10,734 one-word .games domains in this selection
+- Median asking price near $38 — budget-friendly overall
+- Mix of short words, compound phrases, and everyday terms
+- Updated daily to reflect current .games domain pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
