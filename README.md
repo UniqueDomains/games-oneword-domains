@@ -1,10 +1,10 @@
-# Available .GAMES One-Word Domains (14,623)
+# Available .GAMES One-Word Domains (15,142)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C623%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C142%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .games one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,623 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,142 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,623 domains · **Median ask:** $27.64 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 15,142 domains · **Median ask:** $27.09 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-19
 **Canonical page:** `https://unique.domains/domains/tld/games`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| half.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
 | aged.games | available | $19.99    | $43.99        | high           | low    | 4      | name.com                                     |
 | fan.games  | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
 | aid.games  | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                    |
@@ -83,7 +84,6 @@ print(df.head())
 | dawn.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | aug.games  | premium   | $64.35    | $128.70       | low            | low    | 3      | namecheap                                    |
 | bury.games | available | $19.99    | —             | medium         | low    | 4      | name.com                                     |
-| days.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,623 live domains                        |
+| 1,000-row public sample | 15,142 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
