@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .games one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,142 domains · **Median ask:** $27.09 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/games`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| half.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
 | aged.games | available | $19.99    | $43.99        | high           | low    | 4      | name.com                                     |
 | fan.games  | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
 | aid.games  | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                    |
@@ -84,6 +83,7 @@ print(df.head())
 | dawn.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | aug.games  | premium   | $64.35    | $128.70       | low            | low    | 3      | namecheap                                    |
 | bury.games | available | $19.99    | —             | medium         | low    | 4      | name.com                                     |
+| days.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
