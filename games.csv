@@ -62,7 +62,7 @@ f196e426-a7c2-4947-be9e-2c25915f25ed,asleep.games,available,19.99,,high,low,6,na
 fbb98279-dd03-49de-9cd0-cbb5165ae089,Spanishrice.games,available,19.99,,low,low,12,name.com,,
 8df0b2c7-55be-4b38-98bf-98531072be61,rubbingoil.games,available,19.99,,low,low,11,name.com,,
 a534a1fe-7c9f-4123-a9c4-09e0e11b0efb,column.games,available,19.99,43.99,high,low,6,name.com,,
-fcfc60eb-04a1-42fe-9e2a-abf9cfe7e4be,anticipated.games,available,19.99,,medium,low,11,name.com,,
+fcfc60eb-04a1-42fe-9e2a-abf9cfe7e4be,anticipated.games,available,11.98,42.98,low,low,11,namecheap,,
 806bc9ca-fff5-4f76-adc3-a2dc8a73d1ca,stealaway.games,available,19.99,,low,low,10,name.com,,
 b3f203de-1ef5-4119-91e5-03f38fad86c3,getrightwith.games,available,19.99,,medium,low,14,name.com,,
 7d6c8641-74db-4132-ab1a-8e26b3953f8b,already.games,available,19.99,,high,low,7,name.com,,
@@ -315,7 +315,7 @@ e46121c7-9dc9-431d-85a5-44ec4f6807b8,devoted.games,premium,123.75,123.75,high,lo
 8ab97f11-d4ed-434c-a6e3-edee7ab643fe,virulent.games,available,11.98,42.98,low,low,8,namecheap,,
 98a7488c-fa08-4104-88b5-53c5d14deb3a,norwegian.games,premium,69.3,138.6,medium,low,9,namecheap,,
 971fb57b-92e0-4ad1-8e54-1c7db82d1a64,removal.games,available,19.99,,medium,low,7,name.com,,
-a448a3ce-0ac8-458c-aff4-70d687ef59f4,account.games,resell,,,high,low,7,"DNSPod, Inc.",25/11/2020 08:47,25/11/2026 08:47
+a448a3ce-0ac8-458c-aff4-70d687ef59f4,account.games,resell,,,medium,low,7,"DNSPod, Inc.",25/11/2020 08:47,25/11/2026 08:47
 53aec2f5-abde-4461-bd64-7fcd9cb3326f,xxiv.games,available,11.98,42.98,low,low,4,namecheap,,
 46a886b2-ec90-4027-bc7c-5da845205853,whatiswhat.games,available,19.99,,low,low,12,name.com,,
 51960db5-8948-4bb5-bd3a-ee171a6b5756,xxx.games,available,,,medium,low,3,,,
@@ -413,7 +413,7 @@ f3692921-fe29-4ae6-9ed6-acd1527f48c2,BBC.games,premium,69.3,138.6,high,medium,3,
 f4e141ed-9611-4d71-bdcf-9c1f631fba4d,facet.games,available,19.99,,high,low,5,name.com,,
 e44d9f73-7a20-44a2-bec0-336952c1eb25,feminine.games,available,19.99,,high,low,8,name.com,,
 0eb65ca4-2b5b-4f9f-aa04-2d5836fe90bc,things.games,resell,,,high,low,6,"DNSPod, Inc.",01/04/2021 23:59,01/04/2027 23:59
-5d5f48ed-a038-4756-abc5-0ad954ea7be9,library.games,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",30/11/2020 09:09,30/11/2026 09:09
+5d5f48ed-a038-4756-abc5-0ad954ea7be9,library.games,resell,,,medium,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",30/11/2020 09:09,30/11/2026 09:09
 b7a9f717-1830-4993-a937-f16730910e70,platform.games,available,,,high,medium,8,,,
 dd804af4-7d5e-400e-b29b-398d0587bdde,soppy.games,available,11.98,42.98,low,low,5,namecheap,,
 7b7cd33a-c876-4fad-8e1d-651251208235,croptop.games,available,19.99,,high,low,8,name.com,,
@@ -564,7 +564,7 @@ f162ade5-6cb8-47a4-83c2-7e4bac8beaee,bern.games,available,19.99,,high,low,4,name
 496c61ec-3a87-4a75-b47a-52e3d0c0b53f,algore.games,available,19.99,,high,low,7,name.com,,
 9390db7d-945d-4280-87f2-1e540dcf0fc1,turnabout.games,available,19.99,,low,low,10,name.com,,
 933523c8-5298-438c-8b1c-568ec3cd23a4,thelike.games,available,19.99,,medium,low,8,name.com,,
-9e2c7b3c-4af8-4448-ac7b-7784719c917c,computerchip.games,available,19.99,,high,low,13,name.com,,
+9e2c7b3c-4af8-4448-ac7b-7784719c917c,computerchip.games,available,11.98,42.98,low,low,13,namecheap,,
 23a4b146-149c-48b4-8705-1e6efda3898f,hairfollicle.games,available,19.99,,high,low,13,name.com,,
 a518b547-e463-4c41-bb5b-dce7a247fb8a,NorthKorea.games,available,19.99,,low,low,11,name.com,,
 b5fca2f9-286b-4cab-a31a-0e878a97c662,waterless.games,available,11.98,42.98,low,low,9,namecheap,,
@@ -761,7 +761,7 @@ ab0eed16-868a-4a3c-a77e-08f78b85dfd7,matrixgroup.games,available,19.99,,medium,l
 12a2d630-feaf-4045-a92f-ecb3f7f62d0b,balky.games,available,11.98,42.98,low,low,5,namecheap,,
 5d79cc57-96c9-419e-864e-977538a31c22,amalgamate.games,available,19.99,43.99,high,low,10,name.com,,
 00786bad-7ad3-4d6d-a5f3-9e6d3335aeb0,work.games,available,,,high,low,4,,,
-cf21ed71-9c59-4dd6-b4e3-6116a59adafa,virtual.games,resell,,,medium,medium,7,"GoDaddy.com, LLC",12/09/2016 18:20,12/09/2027 18:20
+cf21ed71-9c59-4dd6-b4e3-6116a59adafa,virtual.games,resell,,,medium,low,7,"GoDaddy.com, LLC",12/09/2016 18:20,12/09/2027 18:20
 0ea0c8b7-adb7-4525-b563-eaa0f0986589,bce.games,premium,69.3,138.6,medium,low,3,namecheap,,
 af27671d-3cc7-4304-bc2a-88d86514b5cb,biological.games,available,19.99,,high,low,10,name.com,,
 c53b431e-b926-4035-80d3-9903086e97d6,giddy.games,available,11.98,42.98,low,low,5,namecheap,,
@@ -928,7 +928,7 @@ ff77cffa-72ba-460c-8b13-44d20341cefc,quintuplet.games,available,11.98,42.98,low,
 be896909-e046-4751-aa3f-a4f22b1a3f47,hill.games,resell,,,medium,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",20/12/2025 15:15,20/12/2026 15:15
 4e403dce-2c9e-4bcd-aea7-b7d012b5953c,insuranceagent.games,available,19.99,,medium,low,15,name.com,,
 cb86d967-2a9e-4bc1-8dd3-c08611713495,vein.games,available,19.99,,high,low,4,name.com,,
-2317a5e2-a19d-4838-9731-d2b6b83ab55b,animal.games,premium,140,280,high,low,6,namecheap,,
+2317a5e2-a19d-4838-9731-d2b6b83ab55b,animal.games,premium,130,260,medium,low,6,namecheap,,
 23e696c8-a7b6-4575-bef5-9523653ba1fb,directing.games,available,19.99,43.99,medium,low,9,name.com,,
 05c734a1-f89e-44b8-8455-24030c1018ed,rapmusic.games,available,19.99,,medium,low,9,name.com,,
 3530f474-9059-4488-91f3-592dbfee8d00,tortoiseshell.games,available,19.99,,medium,low,14,name.com,,
