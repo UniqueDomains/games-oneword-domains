@@ -1,10 +1,10 @@
-# Available .GAMES One-Word Domains (25,603)
+# Available .GAMES One-Word Domains (28,007)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C603%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C007%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .games one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,603 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,007 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,603 domains · **Median ask:** $24.61 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 28,007 domains · **Median ask:** $25.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/games`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| cell.games   | premium   | $242      | $242          | high           | low    | 4      | namesilo                                     |
-| half.games   | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
-| period.games | available | $19.99    | —             | high           | low    | 6      | name.com                                     |
-| jesus.games  | premium   | $280      | $560          | high           | medium | 5      | namecheap                                    |
-| aged.games   | available | $19.99    | $43.99        | high           | low    | 4      | name.com                                     |
-| fan.games    | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
-| aid.games    | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                    |
-| alar.games   | available | $11.98    | $42.98        | low            | low    | 4      | namecheap                                    |
-| sun.games    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
-| air.games    | premium   | $512      | $512          | medium         | low    | 3      | namesilo                                     |
-| arum.games   | available | $11.98    | $42.98        | low            | low    | 4      | namecheap                                    |
-| beat.games   | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
-| ala.games    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
-| asat.games   | available | $11.98    | $42.98        | low            | low    | 4      | namecheap                                    |
-| bond.games   | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| and.games    | premium   | $280      | $560          | high           | medium | 3      | namecheap                                    |
-| bern.games   | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
-| dark.games   | resell    | —         | —             | medium         | medium | 4      | 101domain GRS Limited                        |
-| apt.games    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
-| bulb.games   | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| jesus.games | premium   | $512      | $512          | high           | medium | 5      | namesilo                                     |
+| cell.games  | premium   | $242      | $242          | high           | low    | 4      | namesilo                                     |
+| half.games  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| aged.games  | available | $11.98    | $42.98        | medium         | low    | 4      | namecheap                                    |
+| fan.games   | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
+| aid.games   | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                    |
+| alar.games  | available | $11.98    | $42.98        | low            | low    | 4      | namecheap                                    |
+| sun.games   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
+| air.games   | premium   | $512      | $512          | medium         | low    | 3      | namesilo                                     |
+| arum.games  | available | $11.98    | $42.98        | low            | low    | 4      | namecheap                                    |
+| beat.games  | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
+| ala.games   | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| asat.games  | available | $11.98    | $42.98        | low            | low    | 4      | namecheap                                    |
+| bond.games  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| and.games   | premium   | $280      | $560          | high           | medium | 3      | namecheap                                    |
+| bern.games  | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| dark.games  | resell    | —         | —             | medium         | medium | 4      | 101domain GRS Limited                        |
+| apt.games   | premium   | $123.75   | $123.75       | low            | low    | 3      | name.com                                     |
+| both.games  | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| dawn.games  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,603 live domains                        |
+| 1,000-row public sample | 28,007 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
