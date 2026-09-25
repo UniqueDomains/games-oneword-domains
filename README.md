@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .games one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,007 domains · **Median ask:** $25.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/games`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| jesus.games | premium   | $512      | $512          | high           | medium | 5      | namesilo                                     |
-| cell.games  | premium   | $242      | $242          | high           | low    | 4      | namesilo                                     |
-| half.games  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
-| aged.games  | available | $11.98    | $42.98        | medium         | low    | 4      | namecheap                                    |
-| fan.games   | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
-| aid.games   | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                    |
-| alar.games  | available | $11.98    | $42.98        | low            | low    | 4      | namecheap                                    |
-| sun.games   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
-| air.games   | premium   | $512      | $512          | medium         | low    | 3      | namesilo                                     |
-| arum.games  | available | $11.98    | $42.98        | low            | low    | 4      | namecheap                                    |
-| beat.games  | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
-| ala.games   | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
-| asat.games  | available | $11.98    | $42.98        | low            | low    | 4      | namecheap                                    |
-| bond.games  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| and.games   | premium   | $280      | $560          | high           | medium | 3      | namecheap                                    |
-| bern.games  | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
-| dark.games  | resell    | —         | —             | medium         | medium | 4      | 101domain GRS Limited                        |
-| apt.games   | premium   | $123.75   | $123.75       | low            | low    | 3      | name.com                                     |
-| both.games  | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
-| dawn.games  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| alar.games | available | $11.98    | $42.98        | high           | low    | 4      | namecheap                                    |
+| sun.games  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
+| aid.games  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| also.games | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| bite.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| ala.games  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| arco.games | available | $11.98    | $42.98        | high           | low    | 4      | namecheap                                    |
+| bits.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| and.games  | premium   | $280      | $560          | high           | medium | 3      | namecheap                                    |
+| arum.games | available | $11.98    | $42.98        | medium         | low    | 4      | namecheap                                    |
+| bolt.games | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 41                            |
+| ann.games  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| asat.games | available | $11.98    | $42.98        | high           | low    | 4      | namecheap                                    |
+| bond.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| aug.games  | premium   | $64.35    | $128.70       | high           | low    | 3      | namecheap                                    |
+| babe.games | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| dawn.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| axe.games  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| bake.games | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| days.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAMES One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
