@@ -1,10 +1,10 @@
-# Available .GAMES One-Word Domains (19,581)
+# Available .GAMES One-Word Domains (20,017)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C581%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C017%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .games one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,581 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,017 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,581 domains · **Median ask:** $34.81 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 20,017 domains · **Median ask:** $34.60 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/games`
@@ -68,22 +68,22 @@ print(df.head())
 | aura.games | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | abs.games  | premium   | $64.35    | $128.70       | high           | low    | 3      | namecheap                                           |
 | agha.games | available | $33.99    | $33.99        | medium         | low    | 4      | namesilo                                            |
-| bite.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| deer.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | age.games  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
 | airs.games | available | $33.99    | $33.99        | high           | low    | 4      | namesilo                                            |
-| deer.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| flat.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | ala.games  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
 | akka.games | available | $33.99    | $33.99        | high           | low    | 4      | namesilo                                            |
-| flat.games | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| halo.games | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                        |
 | atf.games  | premium   | $64.35    | $128.70       | high           | low    | 3      | namecheap                                           |
 | apsu.games | available | $33.99    | $33.99        | medium         | low    | 4      | namesilo                                            |
-| halo.games | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                        |
+| info.games | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                          |
 | cao.games  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
 | bode.games | available | $33.99    | $33.99        | medium         | low    | 4      | namesilo                                            |
-| info.games | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                          |
-| cap.games  | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
-| chap.games | available | $33.99    | $33.99        | medium         | low    | 4      | namesilo                                            |
 | link.games | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| cap.games  | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
+| cive.games | available | $33.99    | $33.99        | medium         | low    | 4      | namesilo                                            |
+| meat.games | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,581 live domains                        |
+| 1,000-row public sample | 20,017 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
